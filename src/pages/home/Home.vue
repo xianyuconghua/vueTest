@@ -31,7 +31,7 @@ export default {
 			swiperList: [],
 			iconList: [],
 			likeList: [],
-			weekendList: [] 
+			weekendList: []
 		}
 	},
 	computed: {
